@@ -1,0 +1,140 @@
+.logo {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.nav-li {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.ul-nav {
+  font-size: 20px;
+  color: #274C5B;
+  margin-left: 200px;
+  font-weight: 700;
+}
+
+.ul-li {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.sect {
+  background-color: #F9F8F8;
+  padding-top: 60px;
+}
+
+.wrap {
+  width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.left {
+  width: 671px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 51px;
+}
+
+.right {
+  width: 678px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.left-title {
+  font-size: 36px;
+  color: #7EB693;
+}
+
+.left-par {
+  font-size: 50px;
+  color: #274C5B;
+  margin-top: 6px;
+  margin-bottom: 25px;
+}
+
+.left-par1 {
+  font-size: 18px;
+  color: #525C60;
+  margin-bottom: 35px;
+  width: 580px;
+}
+
+.grey {
+  width: 339px;
+  height: 81px;
+  background-color: #ECECEC;
+  padding-left: 27px;
+  margin-bottom: 12px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.left-par2 {
+  font-size: 18px;
+  color: #525C60;
+  margin-left: 60px;
+  width: 400px;
+}
+
+.grey-par {
+  font-size: 20px;
+  color: #274C5B;
+  display: inline-block;
+  vertical-align: auto;
+  margin-top: 30px;
+}
+
+.icon {
+  display: inline-block;
+  vertical-align: auto;
+}
+
+.second {
+  margin-top: 24px;
+}
+
+.div-st {
+  width: 1118px;
+  height: 335px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 120px;
+  padding-bottom: 150px;
+}
+
+.div-end {
+  background-color: #FFFFFF;
+  display: inline-block;
+  vertical-align: auto;
+  width: 257px;
+  height: 335px;
+  left: 287px;
+  margin-left: 19px;
+}
+
+.hklass {
+  color: #274C5B;
+  font-size: 25px;
+  font-weight: 800;
+  margin-top: 30px;
+  margin-left: 25px;
+}
+
+.pklass {
+  color: #525C60;
+  font-size: 18px;
+  font-weight: 400;
+  width: 184px;
+  height: 115;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  line-height: 29.77px;
+}
